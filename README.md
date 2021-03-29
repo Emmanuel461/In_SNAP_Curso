@@ -127,7 +127,7 @@ Abrir archivos en SNAP
 
 <p>Una forma de discriminar visualmente los distintos tipos de retrodispersión en una escena es mediante la creación de un RGB o combinación de bandas. Es preciso mencionar que los distintos valores de retrodispersión están condicionados por una serie de características como la constante dieléctrica, atmosférica y relacionada con la estructura de la cobertura.</p>
  
-<p>Antes de ejecutar el proceso para crear un RGB, es recomendable convertir las imágenes que se encuentran en valores lineales a dB, lo cual implica la aplicación de un logaritmo a los valores lineales (10*log<SUB>10</SUB>(coeficiente de dispersión) (ver Fig 14).</p>
+<p>Antes de ejecutar el proceso para crear un RGB, es recomendable convertir las imágenes que se encuentran en valores lineales a dB, lo cual implica la aplicación de un logaritmo a los valores lineales (10*log<SUB>10</SUB>(coeficiente de dispersión) (ver Fig 15).</p>
  
  <img src="ExtradB.png">
 <h4 id="Sección3">Fig 15. Conversión de datos lineales a dB.</h4>
@@ -138,7 +138,7 @@ Abrir archivos en SNAP
 <img src="Fig15.png">
 <h4 id="Sección3">Fig 16. Abrir opción para creación de RGB de la imagen de trabajo.</h4>
 
-<p>En el recuadro que se despliega seleccione en el canal rojo la banda en polarización VV, en canal verde banda en polarización VH y en el canal azul coloque las bandas VV y VH (Fig 16).Las unidades en cada banda se encuentran en decibeles (dB).</p>
+<p>En el recuadro que se despliega seleccione en el canal rojo la banda en polarización VV, en canal verde banda en polarización VH y en el canal azul coloque las bandas VV y VH (Fig 17).Las unidades en cada banda se encuentran en decibeles (dB).</p>
 
 <img src="Fig16.png">
 <h4 id="Sección3">Fig 17. Crear RGB.</h4>
