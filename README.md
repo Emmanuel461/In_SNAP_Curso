@@ -120,7 +120,7 @@ Abrir archivos en SNAP
 <h4 id="Sección3">Fig 13. Retrodispersión de doble rebote en área urbana.</h4>
 
 <img src="Fig14.png">
-<h4 id="Sección3">Fig 14.Perfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión de doble rebote en área urbana (1), en superficie áspera (2) y retrodispersión especular (3).</h4>
+<h4 id="Sección3">Fig 14.Perfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión de doble rebote en área urbana (1), en superficie áspera (2) y dispersión especular (3).</h4>
 
 
 <h3>4.1 RGB de una imagen SAR</h3> 
