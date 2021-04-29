@@ -35,9 +35,7 @@
 
 <p><h3>2.1 Datos a descargar</h3></p>
 
-<p>Los datos a utilizar en este ejercicio se pueden descargar en el siguiente link:</p> <p><a href="https://drive.google.com/drive/folders/1kYdeka-5-qlpUN_Hg7padGKI2xnDzWSK?usp=sharing"target="_blank">https://drive.google.com/drive/folders/1kYdeka-5-qlpUN_Hg7padGKI2xnDzWSK?usp=sharing</a></p>
-
-
+<p>Los datos a utilizar en este ejercicio se pueden descargar en el siguiente link:</p> <p><a href="https://drive.google.com/drive/folders/1kYdeka-5-qlpUN_Hg7padGKI2xnDzWSK?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1kYdeka-5-qlpUN_Hg7padGKI2xnDzWSK?usp=sharing</a></p> 
 
 <p>Para este ejercicio se utilizará una imagen radar de apertura sintética tipo GRD de Sentinel-1, estas se pueden obtener de forma gratuita en los repositorios de información Alaska Satellite Facility Vertex y Copernicus Open Access Hub, en ambos casos se debe crear -en caso de no tenerse- una cuenta de acceso que permite descargar información satelital a nivel global.</p>
 
