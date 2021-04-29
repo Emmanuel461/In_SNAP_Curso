@@ -35,7 +35,7 @@
 
 <p><h3>2.1 Datos a descargar</h3></p>
 
-<p>Los datos a utilizar en este ejercicio se pueden descargar en el siguiente link:</p> <p><a href="https://drive.google.com/drive/folders/1kYdeka-5-qlpUN_Hg7padGKI2xnDzWSK?usp=sharing"_blank">https://drive.google.com/drive/folders/1kYdeka-5-qlpUN_Hg7padGKI2xnDzWSK?usp=sharing</a></p>
+<p>Los datos a utilizar en este ejercicio se pueden descargar en el siguiente link:</p> <p><a href="https://drive.google.com/drive/folders/1kYdeka-5-qlpUN_Hg7padGKI2xnDzWSK?usp=sharing"target="_blank">https://drive.google.com/drive/folders/1kYdeka-5-qlpUN_Hg7padGKI2xnDzWSK?usp=sharing</a></p>
 
 
 
