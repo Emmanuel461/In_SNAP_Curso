@@ -142,7 +142,7 @@ Abrir archivos en SNAP
 <h4 id="Sección3">Fig 17. Crear RGB.</h4>
 
 <img src="Fig17.png">
-<h4 id="Sección3">Fig 18. RGB del área de estudio en dB, retrodispersión de doble rebote en ciudad <strong>(1)</strong> (ver Fig 13), retrodispersión en superficie áspera <strong>(2)</strong> (ver Fig 10, círculo 2) y retrodispersión especular (de superficie lisa) en cuerpos de agua <strong>(3)</strong> (ver Fig 9, superficie lisa).</h4>
+<h4 id="Sección3">Fig 18. RGB del área de estudio en dB, retrodispersión de doble rebote en ciudad <strong>(1)</strong> (ver Fig 13), retrodispersión en superficie áspera <strong>(2)</strong> (ver Fig 10, círculo 2) y retrodispersión predominantemente especular (de superficie lisa) en cuerpos de agua (humedales) <strong>(3)</strong> (ver Fig 9, superficie lisa).</h4>
 
 <h2 id="Sección5">5. Bibliografía</h2>
 
